@@ -1,2 +1,2 @@
-# Heicoders AI100
- 
+# Heicoders AI100 Curriculum:
+<img src = "AI100 curriculum.png">
